@@ -81,3 +81,9 @@ BIOS [E1.0G|2023-03-07]
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
+
+## Links Youtube
+- https://www.youtube.com/watch?v=8gaWb_xMCY8
+- https://www.youtube.com/watch?v=EYE0NSX174g
+- https://www.youtube.com/watch?v=Hc2FSDdZmu0
+- https://www.youtube.com/watch?v=-9WqIZUpc4o
